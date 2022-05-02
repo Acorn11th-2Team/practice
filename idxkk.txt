@@ -1,0 +1,6 @@
+<<<<<<< HEAD:index.txt
+연습용 파일입니다
+=======
+연습용 파일입니다
+우진의 브랜치
+>>>>>>> origin/woojin:idxkk.txt
